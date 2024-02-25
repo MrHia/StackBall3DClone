@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5a0802cbd00001a146c1070417351e85\transformed\out\jars\classes.jar;E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5a0802cbd00001a146c1070417351e85\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5a0802cbd00001a146c1070417351e85\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\db4361bb28f21ed7fd8451b3e0d1b19a\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="E:\project\Stack Ball 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\db4361bb28f21ed7fd8451b3e0d1b19a\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
